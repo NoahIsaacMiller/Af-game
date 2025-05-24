@@ -1,0 +1,99 @@
+﻿#include "pch-c.h"
+
+
+#include "codegen/il2cpp-codegen-metadata.h"
+
+
+
+
+
+extern void DrawCircle_Start_m02784257CBD8D3A89B0A43463C6F3C50A8A49B7C (void);
+extern void DrawCircle_OnValidate_m2132A9F91E6797ECDAA7D6036FA43882608BE870 (void);
+extern void DrawCircle_DrawSolidCircle_m6D4141000800729D6968E619BF15B2FA5EEB2209 (void);
+extern void DrawCircle_OnTriggerEnter_m6B84EF64B9E463037F1ECC1BE1202FA966DB0F9F (void);
+extern void DrawCircle_GetGameObjectCenter_m96B0D2A6B97EB50EC34DA12399B4FC98F3525DD7 (void);
+extern void DrawCircle__ctor_m9D8351898B944444EE2DB78B8EB3B8F6248AA85C (void);
+extern void NewMonoBehaviourScript_Start_m3AEB44E196F409294FDF6484B549ABB295AD0AFC (void);
+extern void NewMonoBehaviourScript_Update_mA54E945ACEFE3BC597B6BD6C8AC9882B124A0563 (void);
+extern void NewMonoBehaviourScript__ctor_mC52B54CFF4703513FE2F0CFA60A5A6AD27ED5635 (void);
+extern void PlayerController_setRing_m9153DD158244247FFDDAB447ACCA2C60ACCAEE27 (void);
+extern void PlayerController_Start_m1D83076E8B136A71051F2F02545EE04947D3A8CF (void);
+extern void PlayerController_Update_m1F4051EB5BCBCCE5EEE2E3E49B7E278C3B14EC33 (void);
+extern void PlayerController_FixedUpdate_m6D906D8B13844542B81CC49BA19760F747CEC8C0 (void);
+extern void PlayerController_OnCollisionEnter_m2FC01282FAEE546C4408E6B901DBB3EB5A5BF989 (void);
+extern void PlayerController_OnCollisionExit_m4DF3784586ED7D4C4E7E053117AE5406FD71A559 (void);
+extern void PlayerController_SetOnOrbit_m95FB897D058B74A750EB2AE9A06ACEB36EFFF2DE (void);
+extern void PlayerController_SetOffOrbit_m56D8B1D78353F3F51A1B23426FF76F6DAEE27805 (void);
+extern void PlayerController_OrbitAroundCenter_mA2650F5EC87FB0AC1AAD9E77BC099F539F4AB07C (void);
+extern void PlayerController__ctor_mDDAB7C7D82E1A5B3E6C197B1AB9D653DFE554F33 (void);
+extern void UnitySourceGeneratedAssemblyMonoScriptTypes_v1_Get_mBEB95BEB954BB63E9710BBC7AD5E78C4CB0A0033 (void);
+extern void UnitySourceGeneratedAssemblyMonoScriptTypes_v1__ctor_mE70FB23ACC1EA12ABC948AA22C2E78B2D0AA39B1 (void);
+static Il2CppMethodPointer s_methodPointers[21] = 
+{
+	DrawCircle_Start_m02784257CBD8D3A89B0A43463C6F3C50A8A49B7C,
+	DrawCircle_OnValidate_m2132A9F91E6797ECDAA7D6036FA43882608BE870,
+	DrawCircle_DrawSolidCircle_m6D4141000800729D6968E619BF15B2FA5EEB2209,
+	DrawCircle_OnTriggerEnter_m6B84EF64B9E463037F1ECC1BE1202FA966DB0F9F,
+	DrawCircle_GetGameObjectCenter_m96B0D2A6B97EB50EC34DA12399B4FC98F3525DD7,
+	DrawCircle__ctor_m9D8351898B944444EE2DB78B8EB3B8F6248AA85C,
+	NewMonoBehaviourScript_Start_m3AEB44E196F409294FDF6484B549ABB295AD0AFC,
+	NewMonoBehaviourScript_Update_mA54E945ACEFE3BC597B6BD6C8AC9882B124A0563,
+	NewMonoBehaviourScript__ctor_mC52B54CFF4703513FE2F0CFA60A5A6AD27ED5635,
+	PlayerController_setRing_m9153DD158244247FFDDAB447ACCA2C60ACCAEE27,
+	PlayerController_Start_m1D83076E8B136A71051F2F02545EE04947D3A8CF,
+	PlayerController_Update_m1F4051EB5BCBCCE5EEE2E3E49B7E278C3B14EC33,
+	PlayerController_FixedUpdate_m6D906D8B13844542B81CC49BA19760F747CEC8C0,
+	PlayerController_OnCollisionEnter_m2FC01282FAEE546C4408E6B901DBB3EB5A5BF989,
+	PlayerController_OnCollisionExit_m4DF3784586ED7D4C4E7E053117AE5406FD71A559,
+	PlayerController_SetOnOrbit_m95FB897D058B74A750EB2AE9A06ACEB36EFFF2DE,
+	PlayerController_SetOffOrbit_m56D8B1D78353F3F51A1B23426FF76F6DAEE27805,
+	PlayerController_OrbitAroundCenter_mA2650F5EC87FB0AC1AAD9E77BC099F539F4AB07C,
+	PlayerController__ctor_mDDAB7C7D82E1A5B3E6C197B1AB9D653DFE554F33,
+	UnitySourceGeneratedAssemblyMonoScriptTypes_v1_Get_mBEB95BEB954BB63E9710BBC7AD5E78C4CB0A0033,
+	UnitySourceGeneratedAssemblyMonoScriptTypes_v1__ctor_mE70FB23ACC1EA12ABC948AA22C2E78B2D0AA39B1,
+};
+static const int32_t s_InvokerIndices[21] = 
+{
+	14003,
+	14003,
+	14003,
+	10558,
+	23284,
+	14003,
+	14003,
+	14003,
+	14003,
+	10558,
+	14003,
+	14003,
+	14003,
+	10558,
+	10558,
+	2376,
+	10741,
+	14003,
+	14003,
+	24598,
+	14003,
+};
+IL2CPP_EXTERN_C const Il2CppCodeGenModule g_AssemblyU2DCSharp_CodeGenModule;
+const Il2CppCodeGenModule g_AssemblyU2DCSharp_CodeGenModule = 
+{
+	"Assembly-CSharp.dll",
+	21,
+	s_methodPointers,
+	0,
+	NULL,
+	s_InvokerIndices,
+	0,
+	NULL,
+	0,
+	NULL,
+	0,
+	NULL,
+	NULL,
+	NULL,
+	NULL,
+	NULL,
+	NULL,
+};

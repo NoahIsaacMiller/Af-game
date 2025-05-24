@@ -1,0 +1,99 @@
+﻿#include "pch-c.h"
+
+
+#include "codegen/il2cpp-codegen-metadata.h"
+
+
+
+
+
+extern void CameraSmoothDampFollow_LateUpdate_mE84F11098DED2E79AEF20A4E6CECBEA4FB30D160 (void);
+extern void CameraSmoothDampFollow__ctor_m2AC6C714A73DCC67545256A417613D42B3720FB3 (void);
+extern void CircleController_Start_m507D63BCFC9BF4CD62D3E9B1395182B5D6F82609 (void);
+extern void CircleController_OnValidate_m9076647EB23BDC165D754C4907F7BCB53645F58A (void);
+extern void CircleController_DrawSolidCircle_m638652045367676EC424945980A8FD3C1E25743D (void);
+extern void CircleController_OnTriggerEnter2D_m1D81DBE7293B8C9F3197EB552C73344BCBC11916 (void);
+extern void CircleController_GetGameObjectCenter_m12C16437AF91A124B8682307E1B45CF213687230 (void);
+extern void CircleController__ctor_m7EA0688065442672C366D027801DD841737422A6 (void);
+extern void PlayerController_setRing_m9153DD158244247FFDDAB447ACCA2C60ACCAEE27 (void);
+extern void PlayerController_IsOrbiting_mB26FBEBC4DF2668F796B6C7152B2CF76457FEB4E (void);
+extern void PlayerController_Start_m1D83076E8B136A71051F2F02545EE04947D3A8CF (void);
+extern void PlayerController_Update_m1F4051EB5BCBCCE5EEE2E3E49B7E278C3B14EC33 (void);
+extern void PlayerController_FixedUpdate_m6D906D8B13844542B81CC49BA19760F747CEC8C0 (void);
+extern void PlayerController_OnCollisionEnter2D_m28C67E4361403BA9990C1E6D9526F78362591667 (void);
+extern void PlayerController_OnCollisionExit2D_m72AC145E780FFE87067C59A4173C7C172F749FA7 (void);
+extern void PlayerController_SetOnOrbit_m95FB897D058B74A750EB2AE9A06ACEB36EFFF2DE (void);
+extern void PlayerController_SetOffOrbit_m56D8B1D78353F3F51A1B23426FF76F6DAEE27805 (void);
+extern void PlayerController_OrbitAroundCenter_mA2650F5EC87FB0AC1AAD9E77BC099F539F4AB07C (void);
+extern void PlayerController__ctor_mDDAB7C7D82E1A5B3E6C197B1AB9D653DFE554F33 (void);
+extern void UnitySourceGeneratedAssemblyMonoScriptTypes_v1_Get_mBEB95BEB954BB63E9710BBC7AD5E78C4CB0A0033 (void);
+extern void UnitySourceGeneratedAssemblyMonoScriptTypes_v1__ctor_mE70FB23ACC1EA12ABC948AA22C2E78B2D0AA39B1 (void);
+static Il2CppMethodPointer s_methodPointers[21] = 
+{
+	CameraSmoothDampFollow_LateUpdate_mE84F11098DED2E79AEF20A4E6CECBEA4FB30D160,
+	CameraSmoothDampFollow__ctor_m2AC6C714A73DCC67545256A417613D42B3720FB3,
+	CircleController_Start_m507D63BCFC9BF4CD62D3E9B1395182B5D6F82609,
+	CircleController_OnValidate_m9076647EB23BDC165D754C4907F7BCB53645F58A,
+	CircleController_DrawSolidCircle_m638652045367676EC424945980A8FD3C1E25743D,
+	CircleController_OnTriggerEnter2D_m1D81DBE7293B8C9F3197EB552C73344BCBC11916,
+	CircleController_GetGameObjectCenter_m12C16437AF91A124B8682307E1B45CF213687230,
+	CircleController__ctor_m7EA0688065442672C366D027801DD841737422A6,
+	PlayerController_setRing_m9153DD158244247FFDDAB447ACCA2C60ACCAEE27,
+	PlayerController_IsOrbiting_mB26FBEBC4DF2668F796B6C7152B2CF76457FEB4E,
+	PlayerController_Start_m1D83076E8B136A71051F2F02545EE04947D3A8CF,
+	PlayerController_Update_m1F4051EB5BCBCCE5EEE2E3E49B7E278C3B14EC33,
+	PlayerController_FixedUpdate_m6D906D8B13844542B81CC49BA19760F747CEC8C0,
+	PlayerController_OnCollisionEnter2D_m28C67E4361403BA9990C1E6D9526F78362591667,
+	PlayerController_OnCollisionExit2D_m72AC145E780FFE87067C59A4173C7C172F749FA7,
+	PlayerController_SetOnOrbit_m95FB897D058B74A750EB2AE9A06ACEB36EFFF2DE,
+	PlayerController_SetOffOrbit_m56D8B1D78353F3F51A1B23426FF76F6DAEE27805,
+	PlayerController_OrbitAroundCenter_mA2650F5EC87FB0AC1AAD9E77BC099F539F4AB07C,
+	PlayerController__ctor_mDDAB7C7D82E1A5B3E6C197B1AB9D653DFE554F33,
+	UnitySourceGeneratedAssemblyMonoScriptTypes_v1_Get_mBEB95BEB954BB63E9710BBC7AD5E78C4CB0A0033,
+	UnitySourceGeneratedAssemblyMonoScriptTypes_v1__ctor_mE70FB23ACC1EA12ABC948AA22C2E78B2D0AA39B1,
+};
+static const int32_t s_InvokerIndices[21] = 
+{
+	13571,
+	13571,
+	13571,
+	13571,
+	13571,
+	10207,
+	22756,
+	13571,
+	10207,
+	13204,
+	13571,
+	13571,
+	13571,
+	10207,
+	10207,
+	2305,
+	10389,
+	13571,
+	13571,
+	24067,
+	13571,
+};
+IL2CPP_EXTERN_C const Il2CppCodeGenModule g_AssemblyU2DCSharp_CodeGenModule;
+const Il2CppCodeGenModule g_AssemblyU2DCSharp_CodeGenModule = 
+{
+	"Assembly-CSharp.dll",
+	21,
+	s_methodPointers,
+	0,
+	NULL,
+	s_InvokerIndices,
+	0,
+	NULL,
+	0,
+	NULL,
+	0,
+	NULL,
+	NULL,
+	NULL,
+	NULL,
+	NULL,
+	NULL,
+};

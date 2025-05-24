@@ -1,0 +1,5 @@
+R_DEF: Internal format may change without notice
+local
+mipmap app_icon
+mipmap app_icon_round
+string app_name
