@@ -1,0 +1,13 @@
+# Unity 通用忽略规则
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+*.pidb
+*.suo
+*.user
+*.userprefs
+*.unityproj
+*.sln
+*.VC.db
